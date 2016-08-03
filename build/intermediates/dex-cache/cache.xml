@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zkw/Downloads/JangGwa/app/build/intermediates/exploded-aar/com.jude/easyrecyclerview/3.5.7/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5e74d94caa3613a3437f15df7366c90558cfb15c">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/com.jude-easyrecyclerview-3.5.7_94361c50df8fb4f351b0778f9285445cda571673.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/okio-1.6.0_0911ad3889143c16382b619796822eb616a0ddd2.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_f7c8f46567e9bdcb7fbb7b77dc9dc5d2b597cc5a.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_7416a2fca79b1e0886b98d9d6a4a01124eaf4f33.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.1.0/d6854f42bfb4098d3d2358d93201307b9f1cc95d/butterknife-annotations-8.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d6854f42bfb4098d3d2358d93201307b9f1cc95d">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.1.0_c9b4d1d65aaa1494aabd98ae2196c0a21ebc93d7.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/JangGwa/app/build/intermediates/exploded-aar/com.github.chrisbanes/PhotoView/1.2.6/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e39dd45427d2ba136c82ed1946f80dd3dff16695">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/com.github.chrisbanes-PhotoView-1.2.6_1aaa2ff8f19bded9868e4d18d194ec99b2d14b4b.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/JangGwa/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_6bf1cd7178efa208cbc5b71b502f44cf95823877.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/JangGwa/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.3.0_52a69ae0d88e13dcdc99c4449410cb158d709f38.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/JangGwa/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_4a9c652f59defbb890d71472fcfbba4ed16cbf11.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_aef7e563008909266478581881fdf7aceceb2094.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/JangGwa/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d4ab8678882571a0a6f19c47a826ecbce5b4f42b">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.1.0_25f782df8d6eb7ff11ea006473d2c695ec7def05.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/gson-2.6.1_157108d0dcf61c678616d2ad2a8bf0d75ff33798.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/JangGwa/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/io.reactivex-rxandroid-1.2.0_7e5e2d787241ce6398eeedae1a9c95db9a74764e.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/JangGwa/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_660cc9db8002141cbb5a1930fe748ac1dc43614f.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.5/ece7b5d0870e66d8226dab6dcf47a2b12afff061/rxjava-1.1.5.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/rxjava-1.1.5_c81ed5a82c01c13765004cc1f7eedd413ad0f277.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/library-2.4.0_6f561138af2f6da7756d7e3be7435d60e7fd29e8.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/JangGwa/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_ce5058605d8d9085f238bf69069c445a85b42dbc.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_701e4a2f918e3cb523d3d826643f0131f097d684.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/JangGwa/app/build/intermediates/exploded-aar/com.wang.avi/library/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5035aaf60d244038bb143ffad4fbb7cba92ecdc7">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/com.wang.avi-library-1.0.5_1d4fc8fb014dd34e4a97c35ebca38f5c75e68e26.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.2/a60c039ba54c73d1133b72178e1b04133c73d13d/adapter-rxjava-2.0.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.2_1ab91dc4a54bf570bb4d0ca5ac3cb469ac257fae.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/JangGwa/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_df48415b36a90d556eb8e0b277a4e41a4f06aa32.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/JangGwa/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.0.0_489447b8b0ab15a63118e17fe8ce4dc38bbc34c3.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/glide-3.7.0_167c9e6f786b1296e4e58735cdc97d7664d55e5e.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/JangGwa/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_fcd98f1c75652060263bae0438673d3934132499.jar" />
+    </item>
+    <item
+        jar="/Users/zkw/Downloads/JangGwa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/zkw/Downloads/JangGwa/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_6020f8bd57cb5bb52b5eaa4f03d54914c0d43afc.jar" />
+    </item>
+
+</items>
